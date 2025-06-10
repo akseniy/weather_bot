@@ -1,0 +1,6 @@
+asyncpg
+aiogram
+environs
+asyncio
+logging
+requests
