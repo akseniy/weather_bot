@@ -4,3 +4,4 @@ environs
 asyncio
 logging
 requests
+redis
